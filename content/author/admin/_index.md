@@ -9,23 +9,23 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Estudante de Mestrado em Matemática"
+role = "Mestrando em Matemática"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "Universidade Estadual de Campinas", url = "https://www.ime.unicamp.br/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "As linhas de pesquisa que mais me interessam incluem teoria ergódica, sistemas dinâmicos, comportamento caótico e formalismo termodinâmico."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Teoria Ergôdica",
+  "Sistemas Dinâmicos",
+  "Formalismo Termodinâmico"
 ]
 
 # Organizational groups that you belong to (for People widget)
