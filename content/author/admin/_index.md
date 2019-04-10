@@ -36,12 +36,12 @@ user_groups = []
 [[education.courses]]
   course = "Mestrado em Matemática"
   institution = "Universidade Estadual de Campinas"
-  year = 20?
+  year = 2000
 
 [[education.courses]]
   course = "Licenciatura em Matemática"
   institution = "Universidade do Vale do Rio dos Sinos"
-  year = 20?
+  year = 2001
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
