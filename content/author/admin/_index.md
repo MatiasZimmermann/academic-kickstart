@@ -69,3 +69,5 @@ user_groups = []
 +++
 
 Matias Zimmermann estuda atualmente na Universidade Estatual de Campinas no Instituto de Matemática, Estatística e Computação Científica. Seus principais interesses de pesquisa incluem teoria ergódica, sistemas dinâmicos caóticos, formalismo termodinamico e educação matemática.
+
+teste
